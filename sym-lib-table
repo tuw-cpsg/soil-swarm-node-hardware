@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SoilMeasuringBoard-rescue)(type Legacy)(uri ${KIPRJMOD}/SoilMeasuringBoard-rescue.lib)(options "")(descr ""))
+)
