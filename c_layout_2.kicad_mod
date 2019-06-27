@@ -1,4 +1,4 @@
-(module c_layout_1 (layer F.Cu) (tedit 5D13331E)
+(module c_layout_2 (layer F.Cu) (tedit 5D13333D)
   (clearance 2)
   (attr smd)
   (fp_text reference C*** (at 0 0) (layer F.SilkS) hide
@@ -7,7 +7,6 @@
   (fp_text value SENSE (at 0.75 0) (layer F.SilkS) hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))
   )
-  (pad 1 smd circle (at 0 20) (size 8 8) (layers F.Cu))
-  (pad 1 smd rect (at 0 0) (size 8 40) (layers F.Cu))
   (pad 1 smd circle (at 0 -20) (size 8 8) (layers F.Cu))
+  (pad 1 smd circle (at 0 20) (size 8 8) (layers F.Cu))
 )

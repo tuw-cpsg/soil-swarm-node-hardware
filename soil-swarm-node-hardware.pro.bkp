@@ -27,5 +27,7 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
+LibName1=power
+LibName2=74xx
 [general]
 version=1
