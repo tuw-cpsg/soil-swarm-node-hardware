@@ -1,6 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:power
-LIBS:74xx
 LIBS:soil-swarm-node-hardware-cache
 EELAYER 26 0
 EELAYER END
