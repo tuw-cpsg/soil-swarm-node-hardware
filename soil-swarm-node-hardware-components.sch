@@ -15,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Connector:Conn_ARM_JTAG_SWD_10 J?
+L soil-swarm-node-hardware-rescue:Conn_ARM_JTAG_SWD_10-Connector J?
 U 1 1 5CDC6ACC
 P 2250 1500
 AR Path="/5CDC6ACC" Ref="J?"  Part="1" 
@@ -885,7 +885,7 @@ F 3 "" H 9800 5700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Power_Protection:PRTR5V0U2X D?
+L soil-swarm-node-hardware-rescue:PRTR5V0U2X-Power_Protection D?
 U 1 1 5CDE09E9
 P 8300 4400
 AR Path="/5CDE09E9" Ref="D?"  Part="1" 
